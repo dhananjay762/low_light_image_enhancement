@@ -1,0 +1,6 @@
+model_checkpoint_path: "LiCENt-9400"
+all_model_checkpoint_paths: "LiCENt-9024"
+all_model_checkpoint_paths: "LiCENt-9118"
+all_model_checkpoint_paths: "LiCENt-9212"
+all_model_checkpoint_paths: "LiCENt-9306"
+all_model_checkpoint_paths: "LiCENt-9400"
